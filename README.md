@@ -1,6 +1,6 @@
 # Eyes
 
-* In this project the eyes in the center of the screen follow the movement of the mouse
+* In this project the eyes in the center of the screen follow the movement of the mouse. It started out with one eye, then adding a second eye and having them follow the movement of the mouse.
 
 # How to Run:
 
